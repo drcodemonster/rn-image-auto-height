@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "ExampleApp for rn-image-auto-height component",
+    "slug": "example-app-for-rn-image-auto-height-component",
+    "privacy": "public",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "ExampleApp for rn-image-auto-height component",
+    "githubUrl": "https://github.com/drcodemonster/rn-image-auto-height/tree/master/ExampleApp"
+  }
+}
